@@ -1,0 +1,21 @@
+:root {
+  --background: #fffaf5;
+  --foreground: #1f2937;
+  --card: #ffffff;
+  --card-foreground: #1f2937;
+  --popover: #ffffff;
+  --popover-foreground: #1f2937;
+  --primary: #f97316;
+  --primary-foreground: #ffffff;
+  --secondary: #fff5eb;
+  --secondary-foreground: #1f2937;
+  --muted: #f3ede6;
+  --muted-foreground: #6b7280;
+  --accent: #fff1e4;
+  --accent-foreground: #1f2937;
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+  --border: #e5e7eb;
+  --input: #e5e7eb;
+  --ring: #f97316;
+}
